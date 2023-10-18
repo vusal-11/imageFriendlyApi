@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "BiYmqCTPFnO5v2dhfHZ900LFym9EbRZkoHfhWv61xk4=",
+  "Source": "imageKeeper",
+  "BasePath": "_content/imageKeeper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "imageKeeper\\wwwroot",
+      "Source": "imageKeeper",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\imageKeeper\\imageKeeper\\wwwroot\\",
+      "BasePath": "_content/imageKeeper",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
